@@ -1,6 +1,7 @@
-# Python 
+### Python 
+
 - Loops
 - Libraries
 - Statistics 
-- Disctionaries 
+- Dictionaries
 - Lists
